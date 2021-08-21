@@ -1,4 +1,4 @@
 # met0ri
-Install comand cmd: pip3 install pysocks bs4 scapy-python3
-pip3 install pysocks
-py -m pip install pysocks
+Install comand cmd: 1: pip3 install pysocks bs4 scapy-python3
+2: pip3 install pysocks
+3: py -m pip install pysocks
